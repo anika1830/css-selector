@@ -1,0 +1,6 @@
+.random-words::Before {
+    content: "Random";
+  }
+  .random-words::after {
+    content: "Words";
+  }
